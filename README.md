@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Harsh Bijwe.
 - 👀 I’m interested in Software Development.
-- 🌱 I’m currently doing M.tech from IIT Guwahati.
+- 🌱 I’m currently persuing M.tech from IIT Guwahati.
+- 🌱 Having done my B.tech from Christian College of Engineering and Technology.
 - 📫 My personal mail id: harshbjw26@gmail.com
 
 <!---
