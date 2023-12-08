@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Harsh Bijwe.
-- 👀 I’m interested in Software Development.
-- 🌱 I’m currently persuing M.tech in CSE from IIT Guwahati, Having done my B.tech from Christian College of Engineering and Technology.
+- 👀 I’m interested in Software Development and looking for similar roles.
+- 🌱 I’m currently working as a Research Engineer at CDOT New Delhi, having done my Mtech in Computer Science and Engineering from IIT Guwahati.
 - 📫 My personal mail id: harshbjw26@gmail.com
 
 <!---
